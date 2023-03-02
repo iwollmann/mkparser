@@ -1,10 +1,5 @@
 # changelog-builder
 
-You can access the application here: [ChangeLog Builder]()
-
-A tool to automatically generate pretty changelog for share on #checkout-web-changelog channel in slack
-<img width="817" alt="image" src="">
-
 ## Quick start
 
 Follow [Rust](https://www.rust-lang.org/en-US/install.html) installation instructions.
